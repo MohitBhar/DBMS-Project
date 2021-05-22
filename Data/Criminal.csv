@@ -1,0 +1,139 @@
+CriminalID,First_Name,Middle_Name,Last_Name,Gender,DOB,H_NO,Society,Locality,PinCode,MobileNo,Nationality,NGO_ID,Prison_ID
+30439790,Raju,,Chakraborty,F,1983-02-03,419, Nayan Villas,Lajpat Nagar,110077,8537972141,Indian,12463,485285
+84375049,Umar,Emran,Dara,F,1976-12-18,438, Tarun Villas,New Friends Colony,110038,7746062276,Indian,,478356
+39173228,Wafa,Kumar,Modi,M,1979-08-08,491, Kailash Heights,Green Park,110073,8200791632,Indian,10008,469744
+52727705,Elias,,Deol,F,1971-09-12,98, Mustafa Villas,Naraina,110023,8971648465,Indian,10999,472251
+26476064,Moti,Kumar,Kabra,F,1969-11-30,433, Uma Apartments,Nehru Place,110035,9430158127,Pakistani,,476173
+71517366,Mukund,,George,M,1983-06-02,375, Padama Villas,Lajpat Nagar,110077,7977618475,Indian,11510,470468
+66386504,Anees,Ujwal,Rajan,F,1964-03-22,315, Gayatri Heights,IIT,110061,8710580376,Indian,11319,469744
+29937704,Anand,Bhai,Dayal,F,1972-07-22,374, Sara Apartments,Narela,110043,7370751096,Pakistani,,461230
+31079042,Rashid,Lal,Dalal,M,1971-12-21,107, Radheshyam Society,Paharganj,110019,7644901023,Indian,,461230
+88262106,Yadunandan,,Mall,F,1965-06-12,489, Baldev Society,Mayur Vihar,110074,9577940606,Indian,11046,465143
+16396661,Arjun,Ram,Tank,M,1987-03-18,444, Akhil Apartments,Karol Bagh,110054,9205974927,Indian,12683,476173
+52386691,Damini,,Shere,M,1977-02-15,334, Ram Gopal Heights,Panchshil Enclave,110018,9107551567,Indian,,485285
+77860369,Bahadur,,Sengupta,F,1984-01-25,60, Richa Society,Mayur Vihar,110074,9110264030,Indian,,478555
+16236949,Aarushi,Alex,Saini,M,1991-10-12,335, Upasana Society,Nehru Place,110035,8256755985,Indian,,458876
+54377342,Abdul,,Baria,F,1982-03-23,102, Karim Villas,IIT,110061,9665394427,Pakistani,11859,465143
+62891864,Siddharth,Ram,Harjo,F,1997-12-02,117, Lalita Heights,New Friends Colony,110038,9305602369,Indian,,478356
+19948330,Balaji,,Dada,M,2002-06-07,432, Nishita Society,Naraina,110023,9975320599,Indian,,485985
+10108190,Vijayent,Dev,Boase,F,1970-05-17,337, Daanish Heights,Mayur Vihar,110074,9086847148,Indian,11319,478356
+85980622,Mukti,,Walia,M,1968-07-20,116, Parminder Villas,Panchshil Enclave,110018,8871107298,Indian,,485285
+34906393,Hrishikesh,,Arya,M,2002-07-14,447, Owais Heights,Mehrauli Gurgaon Road,110056,9122014037,Indian,,474241
+46333474,Deepesh,Kushal,Brar,M,1976-06-13,197, Natwar Villas,Paschim Vihar,110045,8639139888,Indian,10486,485985
+15886126,Krishna,,Kar,M,1978-11-28,308, Vivek Society,Mehrauli Gurgaon Road,110056,8312742279,Indian,,470994
+11232757,Hira,,Wason,M,1974-11-19,118, Rosey Apartments,Karol Bagh,110054,7392077648,Indian,10413,479893
+30130523,Aditya,,Srinivasan,F,1998-03-22,154, Moti Villas,Karol Bagh,110054,9587219964,Indian,,476173
+80377256,Kirti,,Dâ€™Alia,M,1987-10-28,51, Prasoon Villas,Paharganj,110019,8729007573,Indian,,472201
+23077185,Malik,Raj,Nath,F,1982-03-28,219, Fardeen Heights,Nizammuddin,110053,7266205340,Indian,12330,478356
+37797207,Faisal,Arjun,Deshpande,F,1983-08-07,158, Malik Society,Green Park,110073,7472946624,Indian,,474851
+81118587,Moti,Venkat,Upadhyay,M,1978-10-29,100, Payal Apartments,Panchshil Enclave,110018,7930862360,Indian,10517,485810
+62513416,Jagdish,,Contractor,F,1980-03-01,184, Nakul Villas,Green Park,110073,7546220314,Indian,,468151
+72697184,Rupal,,Dhingra,F,1978-12-25,302, Prasoon Villas,Nehru Place,110035,9535840800,Indian,12671,470994
+58803306,Teena,,Mittal,M,2002-01-27,116, Lalit Society,Narela,110043,9002885619,Bangladeshi,,485985
+75381530,Amrit,,Gour,M,1974-10-16,442, Tulsi Apartments,Greater Kailash - I,110059,8133446322,Indian,10585,468151
+32495568,Kamlesh,,Sodhani,M,1969-04-15,339, Nandini Society,Golf Links,110044,8667052757,Indian,,485285
+80256521,Nancy,Albert,Pillay,F,1992-12-31,137, Smriti Society,Golf Links,110044,8295551411,Indian,12518,458876
+63032259,Karim,Pratap,Raja,F,1967-01-30,230, Parvez Villas,Green Park,110073,8699150627,Indian,10584,474241
+27659398,Prasoon,Prasad,Kalla,M,1964-03-14,19, Bhanupriya Society,Nehru Place,110035,7892189570,Indian,12103,485285
+88080685,Ramesh,Singh,Panchal,F,1963-11-26,159, Hetan Villas,Friends Colony,110041,7680597011,Indian,,479893
+79800481,Javed,,Hari,M,1973-09-24,287, Nitika Society,Green Park,110073,8067809675,Indian,12290,485810
+46484179,Fatima,,Rai,F,1996-05-16,337, Bishnu Society,Naraina,110023,8999999766,Bangladeshi,12050,478356
+77047325,Aniruddh,,Bhakta,M,1995-03-20,401, Hina Society,Panchshil Enclave,110018,7160297464,Indian,,485285
+26896323,Gulzar,,Chaudhuri,M,1992-12-27,121, Tabeed Villas,Panchshil Enclave,110018,8031865660,Bangladeshi,,485810
+47668861,Nishi,Malik,Pillai,M,1986-08-06,285, Nishi Heights,IIT,110061,8811281004,Pakistani,11447,485985
+81349037,Azhar,,Kade,F,1981-08-04,133, Nishtha Society,Lajpat Nagar,110077,9686891294,Indian,,470994
+41558956,Azhar,,Tata,F,1993-03-02,101, Nitika Apartments,Mehrauli Gurgaon Road,110056,8930935473,Indian,10603,485285
+19115330,Govind,,Joshi,F,1986-09-13,296, Prabhat Heights,Panchshil Enclave,110018,9962229501,Indian,,468151
+89196443,Suresh,Tabeed,Parekh,F,1973-08-24,287, Rupesh Apartments,Lajpat Nagar,110077,9726453695,Indian,11540,459931
+82032702,Vaishali,Jamshed,Kara,F,1970-01-11,438, Sohail Heights,Green Park,110073,8617982106,Indian,11579,458876
+70929708,Ishat,Mohan,Mathai,M,1981-02-28,263, Hari Society,Panchshil Enclave,110018,8951762783,Indian,10430,479893
+66059424,Yadu,Singh,Nath,M,1979-07-18,122, Kiran Villas,Narela,110043,7131886709,Indian,,465143
+65899907,Suraj,Raj,Sanghvi,M,1973-04-17,4, Shashank Heights,Lajpat Nagar,110077,9283027174,Indian,,470468
+45406569,Lalita,,Bahl,F,1991-05-08,469, Qabeel Society,Green Park,110073,9691273766,Bangladeshi,12103,472251
+79156313,Neerendra,,Bhasin,M,1967-01-20,261, Nikita Society,Nehru Place,110035,8660633598,Indian,,459931
+67490415,Richa,,Sarraf,M,1990-04-25,317, Arvind Society,Panchshil Enclave,110018,9569822888,Indian,,485985
+18144786,Kalyan,Prasad,Dugar,F,1999-08-04,132, Pinky Apartments,Mayur Vihar,110074,8199433538,Indian,10584,485810
+55820474,Manoj,Kumar,Jacob,F,1977-06-15,201, Albert Society,Nehru Place,110035,7341112011,Bangladeshi,10056,470468
+49192975,Faraz,Naseer,Kalita,M,1994-06-09,228, Ram Gopal Apartments,Green Park,110073,7579461565,Bangladeshi,10999,461230
+80878874,Amrita,,Rau,F,1976-04-04,295, Priyanka Apartments,Paharganj,110019,8091659321,Indian,,469744
+16102270,Vivek,Singh,Bahri,M,1986-10-25,203, Kartik Heights,Golf Links,110044,7627819020,Indian,,485810
+77622471,Madhavi,,Keer,M,1996-10-13,252, Dhiraj Heights,Nehru Place,110035,8456028065,Indian,12671,478356
+22486633,Mohanlal,Varun,Rampersad,F,1980-05-31,257, Nilima Society,IIT,110061,9836966896,Indian,12204,468151
+48321939,Somnath,Singh,Sachdeva,F,1995-04-22,329, Rita Apartments,Friends Colony,110041,8682109672,Indian,11510,478555
+25741571,Ujwal,,Samra,M,1997-10-05,221, Lakshmi Apartments,Mayur Vihar,110074,9707852152,Indian,12330,461230
+47824503,Ganesh,Lakshmi,Lalla,F,1961-08-01,459, Parminder Villas,Mehrauli Gurgaon Road,110056,7415388684,Indian,,476173
+83959087,Somnath,,Raju,F,1963-10-29,392, Zaad Society,Nehru Place,110035,8410790003,Indian,,470468
+27799380,Wafa,Lal,Randhawa,M,1965-04-17,412, Hetan Villas,Green Park,110073,8437723452,Bangladeshi,,469744
+44958763,Tushar,Pratap,Desai,F,1978-12-29,351, Gauransh Villas,Panchshil Enclave,110018,9571040435,Indian,,468151
+72960781,Aniruddh,Ram,Pillay,M,2004-11-12,435, Suraj Villas,Karol Bagh,110054,7253641922,Indian,10490,485285
+24936770,Geetanjali,,Kota,F,1968-12-02,226, Ramesh Heights,Golf Links,110044,9260298444,Indian,11414,478356
+68989306,Himani,,Kant,F,1984-06-19,125, Vicky Villas,New Friends Colony,110038,9300266278,Indian,,479893
+25705454,Rita,,Rampersad,M,1973-03-01,299, Tanuja Apartments,Panchshil Enclave,110018,7144330132,Indian,,478356
+31294173,Krishna,,Iyengar,M,1986-07-09,447, Pranab Heights,New Friends Colony,110038,7495191145,Pakistani,11427,470468
+38753795,Anil,Singh,Din,M,1984-10-28,45, Mitesh Apartments,New Friends Colony,110038,9000428095,Indian,10684,476173
+84015450,Bimla,,Raja,M,1976-05-25,225, Madhu Apartments,Mayur Vihar,110074,9040530487,Indian,10999,469744
+77267421,Harbhajan,Pratap,Kota,F,1967-02-03,2, Mukti Villas,Green Park,110073,8674736416,Indian,12290,479893
+31442321,Charu,,Jhaveri,F,1982-06-15,379, Gunjan Villas,Mayur Vihar,110074,9429209091,Indian,,461230
+41791755,Himesh,,Shah,M,1972-10-10,402, Neela Apartments,Lajpat Nagar,110077,7187888870,Indian,,485985
+78323724,Baldev,,Thomas,M,1982-12-01,291, Mahmood Society,Mayur Vihar,110074,9490341824,Pakistani,10051,478356
+29966644,Wafiq,,Joshi,M,1984-09-22,304, Emran Apartments,Panchshil Enclave,110018,8183004001,Indian,,468151
+42580328,Ajeet,,Dugar,M,1974-06-26,80, Afreen Society,Paharganj,110019,9685949286,Indian,,465143
+44284276,Nupoor,,Mukherjee,F,1983-10-16,245, Kajol Villas,Panchshil Enclave,110018,7479300697,Indian,11719,474241
+43297981,Siddharth,Pratap,Muni,M,1983-02-20,46, Owais Society,Naraina,110023,7175296043,Pakistani,10684,468151
+57343417,Radha,,Roy,M,1974-05-07,323, Damini Heights,Friends Colony,110041,7729740301,Indian,,476173
+20744520,Jagat,,Mitra,F,1992-11-01,254, Binod Villas,Naraina,110023,7605568105,Indian,,472251
+62236225,Bagwati,,Misra,F,1972-05-10,113, Vaishali Apartments,Karol Bagh,110054,9063333725,Bangladeshi,11306,459931
+47738849,Tarun,Singh,Singh,F,1983-10-12,180, Radheshyam Society,Mehrauli Gurgaon Road,110056,9181432990,Indian,12194,478555
+52204406,Habib,Lal,Chandran,F,1997-03-04,179, Lakshmi Villas,International Airport,110032,7510850691,Indian,,483141
+47386200,Surya,,Khurana,F,1975-04-20,324, Zeeshan Heights,International Airport,110032,7688900583,Indian,,478356
+56745787,Aatif,,Bedi,M,1963-07-16,460, Heer Society,Golf Links,110044,9262274609,Indian,10898,472251
+12672075,Raghavan,Parvez,Sandhu,F,1985-05-16,108, Owais Society,Golf Links,110044,8950874365,Indian,,470994
+79198319,Uday,,Bath,M,1976-11-27,338, Naina Society,Paschim Vihar,110045,8188641587,Indian,,472201
+86927999,Vivek,Pratap,Mandal,F,2004-09-18,488, Arjun Apartments,Nizammuddin,110053,9509592359,Indian,12463,461230
+30277545,Daanish,Ram,Pingle,M,1981-05-07,219, Karim Heights,Panchshil Enclave,110018,7599221622,Indian,,469744
+89415922,Jasmin,,Bala,M,1991-11-07,16, Ankita Heights,Nizammuddin,110053,8660243195,Indian,11306,468151
+30357458,Brock,,Shah,M,1996-04-16,104, Madhavi Society,International Airport,110032,7885193227,Indian,11319,461230
+70305205,Madhu,,Prabhu,M,1987-03-18,108, Raghavan Society,Naraina,110023,7825788333,Indian,12151,470468
+26279169,Koushtubh,Kumar,Kale,F,1971-03-15,118, Binoya Society,Mayur Vihar,110074,7985201074,Indian,,459931
+83966011,Mustafa,Chandra,Suresh,F,1985-11-24,42, Devendra Heights,Nizammuddin,110053,8038418466,Indian,10008,485810
+33152823,Farah,Ram,Sant,M,1975-05-27,96, Jack Society,International Airport,110032,8109777615,Indian,11719,485985
+61367554,Eddie,Chandra,Jani,M,1970-06-24,467, Kamini Apartments,Mehrauli Gurgaon Road,110056,8227128396,Indian,11750,468151
+65889878,Nupoor,,Deshmukh,F,1975-12-31,334, Dinesh Society,New Friends Colony,110038,8780757454,Indian,12195,472201
+77084386,Alka,,Misra,F,1996-11-21,70, Madhu Apartments,Green Park,110073,8011776656,Indian,,469744
+82201623,Baldev,,Ravi,M,1991-09-27,415, Zeenat Apartments,Narela,110043,9162419646,Indian,,478356
+32451459,Biren,,Chohan,M,1968-06-14,203, Mayawati Heights,International Airport,110032,7291002746,Indian,,472201
+21537619,Tejaswani,Suresh,Chaudry,F,1976-02-01,257, Ishat Society,Lajpat Nagar,110077,7357791823,Indian,11840,468151
+43021600,Manpreet,Singh,Ben,M,1991-03-05,488, Bharat Villas,Mayur Vihar,110074,7935293461,Indian,,469744
+40980610,Amir,Kumar,Naidu,M,2000-01-09,15, Kasturi Apartments,Green Park,110073,8991494070,Indian,,474241
+89215106,Diya,,Narula,F,1991-06-17,292, Rachel Villas,Friends Colony,110041,8427401627,Indian,,469744
+33567240,Gaurav,,Thaman,M,1973-10-01,352, Kartik Villas,Nizammuddin,110053,7695232580,Indian,,472251
+35320986,Diya,,Mand,M,1981-01-26,219, Albert Society,IIT,110061,8797654645,Pakistani,,474241
+65158753,Hira,,Pandey,F,1989-11-26,324, Samir Society,Paschim Vihar,110045,8827242921,Indian,10175,461230
+78802426,Mowgli,Prasad,Sood,F,1993-11-02,480, Aadish Villas,International Airport,110032,8012192433,Indian,,470994
+30258642,Harpreet,Yadu,Lal,M,2001-08-10,91, Lalita Society,Nizammuddin,110053,9877463922,Indian,12518,483141
+68233810,Himesh,Lal,Modi,M,1986-12-05,235, Priyanka Heights,Panchshil Enclave,110018,7217082853,Indian,,485985
+78807046,Usman,,Kaul,M,1986-04-06,467, Abbas Villas,Lajpat Nagar,110077,8263613111,Indian,,485285
+16486255,Leela,,Kota,F,1970-06-09,442, Komal Villas,Naraina,110023,8291572823,Indian,10517,470994
+57656961,Saurabh,,Aggarwal,F,1999-02-19,438, Radhika Society,Green Park,110073,8306629420,Indian,12050,478356
+68274657,Ghalib,,Gupta,M,2005-01-15,178, Narmada Heights,Narela,110043,9872403283,Indian,,472201
+83482883,Dhanush,Prasad,Kalla,F,1966-09-01,486, Poonam Villas,Green Park,110073,9638841224,Indian,,478356
+35300597,Krishna,,Deo,M,1997-08-08,215, Pranay Society,Nizammuddin,110053,7657457422,Indian,10051,465143
+58486307,Sai,,Chana,F,1987-05-18,481, Nirmal Heights,Green Park,110073,9318181826,Indian,,485985
+17337749,Kasturba,,Deol,F,1973-01-19,244, Nawab Apartments,Mayur Vihar,110074,7481313031,Indian,,468151
+45897681,Qadim,,Narang,M,1960-11-29,422, Munni Villas,Paharganj,110019,8380620409,Indian,,474851
+78467223,Tanay,Chandra,Ramnarine,M,2002-02-25,212, Samir Heights,Paschim Vihar,110045,7746447554,Indian,,485810
+24086167,Baldev,Chandra,Hegde,F,1982-10-29,171, Nagma Apartments,IIT,110061,8822350413,Indian,10430,476173
+85837146,Bharat,,Sangha,F,1971-10-10,128, Rakhi Villas,Lajpat Nagar,110077,8095319331,Indian,,470468
+73563102,Savita,,Sethi,M,1992-12-17,407, Ghalib Heights,Nehru Place,110035,8935401651,Indian,,470468
+40400744,Kalpit,Dev,Palla,M,1979-10-10,27, Sheetal Villas,New Friends Colony,110038,7700259534,Indian,11306,479893
+56219192,Bhola,Karim,Solanki,M,1974-08-20,269, Pooja Society,International Airport,110032,8404351165,Bangladeshi,,485810
+74295022,Sameera,,Chowdhury,M,1974-11-19,463, Aslam Villas,Narela,110043,7263470108,Indian,,472251
+22162608,Heer,,Roy,F,2002-01-11,300, Anees Society,New Friends Colony,110038,7536065265,Indian,12226,474241
+22026246,Uday,,Uppal,M,1982-10-14,77, Ibrahim Villas,Friends Colony,110041,9588816652,Indian,11768,465143
+33226095,Padmini,Sahil,Ranganathan,M,1963-06-28,247, Surya Villas,Paharganj,110019,9614618879,Indian,10584,479893
+36649751,Wafiq,,Amble,F,1996-12-23,165, Gulab Villas,Mehrauli Gurgaon Road,110056,8093270632,Indian,12463,468151
+10091118,Albert,Sohail,Sood,M,1989-12-07,169, Aditya Heights,Narela,110043,7455703747,Indian,,465143
+21094584,Parvez,,Som,M,1989-10-30,482, Mukund Society,International Airport,110032,7991531074,Pakistani,,485285
+49102266,Fatima,,Handa,M,2003-10-17,458, Lata Heights,Lajpat Nagar,110077,8004447053,Indian,12671,474241
+73336466,Veena,,Badal,F,1981-11-14,66, Zeeshan Society,Lajpat Nagar,110077,9495964485,Bangladeshi,12050,474241
+71538030,Amolika,,Chaudhry,M,1980-08-15,185, Chandni Society,Panchshil Enclave,110018,9612548902,Bangladeshi,12226,472201
